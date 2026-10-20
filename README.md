@@ -1,6 +1,6 @@
 # coding-practice
 
-Daily coding practice, one folder per platform. Right now that is LeetCode: the [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) study plan plus a few warm-ups, solved in Java first, then rewritten in Kotlin. Other platforms get their own folder when I start practicing there.
+Daily coding practice, one folder per platform. Right now that is LeetCode: the [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) study plan plus a few warm-ups, solved in Java first, then rewritten in Kotlin. Other platforms get their own folder: [`hackerrank/`](hackerrank/) is laid out and waiting for its first problem.
 
 I'm a backend engineer with 7+ years of production Java. I keep this up so I can still solve problems by hand, alongside the AI-assisted way I work day to day.
 
@@ -42,6 +42,9 @@ leetcode/
   ...
   extra/                     LeetCode problems outside the 150 (warm-ups and others)
     0876-middle-of-the-linked-list/
+hackerrank/
+  coding/                    algorithm problems, one folder per problem slug
+  code-repo/                 "fix the app" tasks in a full project
 ```
 
 ## Progress
@@ -75,5 +78,9 @@ leetcode/
 | 23 | Multidimensional DP | 0 / 9 |
 | | **Total** | **2 / 150** |
 | | Other problems (outside the 150, in `leetcode/extra/`) | 5 |
+
+### HackerRank
+
+Nothing yet. See [`hackerrank/`](hackerrank/) for the layout.
 
 Started October 2026.
