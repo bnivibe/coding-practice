@@ -84,3 +84,7 @@ hackerrank/
 Nothing yet. See [`hackerrank/`](hackerrank/) for the layout.
 
 Started October 2026.
+
+## License
+
+MIT, see [LICENSE](LICENSE). It covers my solution code and the notes. Problem statements and editorials belong to their platforms, so this repo links to them instead of copying them.
