@@ -24,7 +24,7 @@ Three Wrong Answers on `"aab"` / `"baa"` before the counting idea:
 - Deleting matched letters from the front of the note assumed the letters appear in the same order in the magazine.
 - Deleting matches anywhere still failed: the empty check ran only at the top of the loop, so a note finished by the magazine's last letter returned false. One magazine letter could also remove two note letters.
 - The counting version passed with a `HashMap` (15 ms). How I got there: I read a solution write-up and learned how to use a HashMap for this.
-- Two minutes later I switched to an `int[26]` array with a length check first (1 ms). Why I changed it: (from submission history)
+- Two minutes later I switched to an `int[26]` array with a length check first (1 ms). Why I changed it: a write-up showed me there was a better way, so I improved it and wrote it again.
 
 ## Next
 
@@ -33,6 +33,6 @@ Three Wrong Answers on `"aab"` / `"baa"` before the counting idea:
 
 ## Links
 
-- Solution write-up: read one after my third Wrong Answer, where I learned the HashMap approach (link not saved).
+- Solution write-up: read one after my third Wrong Answer, where I learned the HashMap approach and then the array version (link not saved).
 
 <!-- leetcode-sync: java=2177172278@1792508590 -->
