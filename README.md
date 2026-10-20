@@ -1,6 +1,6 @@
-# leetcode
+# coding-practice
 
-Daily coding practice: LeetCode's [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) study plan, solved in Java first, then rewritten in Kotlin.
+Daily coding practice, one folder per platform. Right now that is LeetCode: the [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) study plan plus a few warm-ups, solved in Java first, then rewritten in Kotlin. Other platforms get their own folder when I start practicing there.
 
 I'm a backend engineer with 7+ years of production Java. I keep this up so I can still solve problems by hand, alongside the AI-assisted way I work day to day.
 
@@ -25,25 +25,28 @@ Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (up
 3. **Port to Kotlin.** Same solution, rewritten in idiomatic Kotlin.
 4. **Write it down.** Each problem folder has notes: approach, complexity, what I missed, and what to study or practice next.
 
-The solutions are my own code, written in the LeetCode editor and copied here unchanged. The notes are drafted with Claude from my submission history and my answers; the commit history shows which is which.
+The solutions are my own code, written in each platform's editor and copied here unchanged. The notes are drafted with Claude from my submission history and my answers; the commit history shows which is which.
 
-Problem statements and official editorials are LeetCode's content, so each folder links to them instead of copying them.
+Problem statements and editorials belong to the platforms, so each folder links to the problem instead of copying it.
 
 ## Layout
 
 ```
-01-array-string/
-  0088-merge-sorted-array/
-    Solution.java
-    Solution.kt
-    README.md      notes, see TEMPLATE.md
-02-two-pointers/
-...
-extra/             problems outside the 150 (warm-ups and others)
-  0876-middle-of-the-linked-list/
+leetcode/
+  01-array-string/           Top Interview 150, one folder per topic
+    0088-merge-sorted-array/
+      Solution.java
+      Solution.kt
+      README.md              notes, see TEMPLATE.md
+  02-two-pointers/
+  ...
+  extra/                     LeetCode problems outside the 150 (warm-ups and others)
+    0876-middle-of-the-linked-list/
 ```
 
 ## Progress
+
+### LeetCode: Top Interview 150
 
 | # | Topic | Solved |
 |---|---|---|
@@ -71,6 +74,6 @@ extra/             problems outside the 150 (warm-ups and others)
 | 22 | 1D DP | 0 / 5 |
 | 23 | Multidimensional DP | 0 / 9 |
 | | **Total** | **2 / 150** |
-| | Other problems (outside the 150, in `extra/`) | 5 |
+| | Other problems (outside the 150, in `leetcode/extra/`) | 5 |
 
 Started October 2026.
