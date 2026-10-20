@@ -28,6 +28,6 @@ Accepted on the first submission, in 3 ms, which LeetCode ranked slower than mos
 
 ## Links
 
-- Editorial: none noted
+- None saved
 
 <!-- leetcode-sync: java=2174965208@1792287953 -->

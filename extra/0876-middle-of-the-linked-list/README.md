@@ -21,7 +21,7 @@ Move `cur` two nodes and `mid` one node per step. When `cur` runs out, `mid` has
 
 - First submission: Runtime Error (NullPointerException) on a 10-node list. After counting the length, I walked until a node's value equalled the target position (`curNode.val != target`). The values are not positions, so it never matched and ran off the end.
 - Second submission: counted positions in a separate variable and passed. How I found the bug: I checked the error, went through what was wrong, and found I was referencing the wrong thing.
-- Third submission: replaced the counting with a fast and a slow pointer, one pass instead of two. Why I changed it: I read the editorial, learned how it could be improved further, and changed it.
+- Third submission: replaced the counting with a fast and a slow pointer, one pass instead of two. Why I changed it: I read an explanation, learned how it could be improved further, and changed it.
 
 ## Next
 
@@ -30,6 +30,6 @@ Move `cur` two nodes and `mid` one node per step. When `cur` runs out, `mid` has
 
 ## Links
 
-- Editorial: [LeetCode editorial](https://leetcode.com/problems/middle-of-the-linked-list/editorial/), read after my second submission to see how to improve it.
+- None saved
 
 <!-- leetcode-sync: java=2176685833@1792463297 -->
