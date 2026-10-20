@@ -9,7 +9,9 @@ I'm a backend engineer with 7+ years of production Java. I keep this up so I can
 1. **Solve without AI.** Timer on (Easy 20 min, Medium 40 min), thinking out loud the way I would in an interview. If time runs out, I stop, note where I got stuck, and try again the following week.
 2. **Review an AI solution.** I ask Claude for its own solution and read it without running it: where it is weak, how it differs from mine, and what breaks first if the input grows 10x.
 3. **Port to Kotlin.** Same solution, rewritten in idiomatic Kotlin.
-4. **Write it down.** Each problem folder has my notes: approach, complexity, what I missed, and what to study or practice next.
+4. **Write it down.** Each problem folder has notes: approach, complexity, what I missed, and what to study or practice next.
+
+The solutions are my own code, written in the LeetCode editor and copied here unchanged. The notes are drafted with Claude from my submission history and my answers; the commit history shows which is which.
 
 Problem statements and official editorials are LeetCode's content, so each folder links to them instead of copying them.
 
@@ -23,6 +25,8 @@ Problem statements and official editorials are LeetCode's content, so each folde
     README.md      notes, see TEMPLATE.md
 02-two-pointers/
 ...
+extra/             problems outside the 150 (warm-ups and others)
+  0876-middle-of-the-linked-list/
 ```
 
 ## Progress
@@ -33,7 +37,7 @@ Problem statements and official editorials are LeetCode's content, so each folde
 | 02 | Two Pointers | 0 / 5 |
 | 03 | Sliding Window | 0 / 4 |
 | 04 | Matrix | 0 / 5 |
-| 05 | Hashmap | 0 / 9 |
+| 05 | Hashmap | 1 / 9 |
 | 06 | Intervals | 0 / 4 |
 | 07 | Stack | 0 / 5 |
 | 08 | Linked List | 0 / 11 |
@@ -52,6 +56,7 @@ Problem statements and official editorials are LeetCode's content, so each folde
 | 21 | Math | 0 / 6 |
 | 22 | 1D DP | 0 / 5 |
 | 23 | Multidimensional DP | 0 / 9 |
-| | **Total** | **0 / 150** |
+| | **Total** | **1 / 150** |
+| | Other problems (outside the 150, in `extra/`) | 5 |
 
 Started October 2026.

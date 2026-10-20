@@ -1,5 +1,7 @@
 # 0000. Problem Title
 
+> Solution: written by me on LeetCode. Notes: drafted with Claude from my submission history and my answers.
+
 - **Problem:** https://leetcode.com/problems/problem-slug/
 - **Topic:** Array / String · **Difficulty:** Easy
 - **Date:** YYYY-MM-DD
