@@ -19,8 +19,8 @@ Walk the array once. For each number, look up its complement (`target - nums[i]`
 
 ## What I missed
 
-- First submission: Wrong Answer on `[-1,-2,-3,-4,-5]` with target -8 (expected `[2,4]`, got `[0,0]`). It subtracted numbers from the target only while the remainder stayed at zero or above, which never happens with a negative target, and it was not limited to two numbers. In my words: I had not thought about the negative case, so it failed the tests; I thought about it for a while and then read a solution write-up.
-- Then three accepted versions within three minutes: every pair with nested loops (39 ms), a `HashMap` filled first and searched in a second pass (5 ms), and a single pass that checks the complement before storing each number (3 ms). Why: I wrote what I learned from the write-up into code, improving it as I went.
+- First submission: Wrong Answer on `[-1,-2,-3,-4,-5]` with target -8 (expected `[2,4]`, got `[0,0]`). It subtracted numbers from the target only while the remainder stayed at zero or above, which never happens with a negative target, and it was not limited to two numbers. In my words: I had not thought about the negative case, so it failed the tests; I thought about it for a while and then read the editorial.
+- Then three accepted versions within three minutes: every pair with nested loops (39 ms), a `HashMap` filled first and searched in a second pass (5 ms), and a single pass that checks the complement before storing each number (3 ms). Why: I wrote what I learned from the editorial into code, improving it as I went.
 
 ## Next
 
@@ -29,6 +29,6 @@ Walk the array once. For each number, look up its complement (`target - nums[i]`
 
 ## Links
 
-- Solution write-up: read one after my first Wrong Answer (link not saved).
+- Editorial: [LeetCode editorial](https://leetcode.com/problems/two-sum/editorial/), read after my first Wrong Answer.
 
 <!-- leetcode-sync: java=2177222961@1792512422 -->
