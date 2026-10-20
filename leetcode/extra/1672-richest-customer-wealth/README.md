@@ -20,7 +20,7 @@ Sum each customer's balances with a for-each loop and keep the largest sum with 
 ## What I missed
 
 - My first accepted version turned each row into running sums in place and read the last column. It passed in 1 ms but changed the input array.
-- Six minutes later I rewrote it to sum each row into a local variable without touching the input, which ran in 0 ms. Why I changed it: (from submission history)
+- Six minutes later I rewrote it to sum each row into a local variable without touching the input, which ran in 0 ms. Why I changed it: to make the code simpler, rather than to improve the time complexity.
 
 ## Next
 
