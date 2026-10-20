@@ -51,7 +51,7 @@ extra/             problems outside the 150 (warm-ups and others)
 | 02 | Two Pointers | 0 / 5 |
 | 03 | Sliding Window | 0 / 4 |
 | 04 | Matrix | 0 / 5 |
-| 05 | Hashmap | 1 / 9 |
+| 05 | Hashmap | 2 / 9 |
 | 06 | Intervals | 0 / 4 |
 | 07 | Stack | 0 / 5 |
 | 08 | Linked List | 0 / 11 |
@@ -70,7 +70,7 @@ extra/             problems outside the 150 (warm-ups and others)
 | 21 | Math | 0 / 6 |
 | 22 | 1D DP | 0 / 5 |
 | 23 | Multidimensional DP | 0 / 9 |
-| | **Total** | **1 / 150** |
+| | **Total** | **2 / 150** |
 | | Other problems (outside the 150, in `extra/`) | 5 |
 
 Started October 2026.
