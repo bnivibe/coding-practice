@@ -23,8 +23,8 @@ Three Wrong Answers on `"aab"` / `"baa"` before the counting idea:
 - `magazine.contains(ransomNote)` checks for a substring, not for letters.
 - Deleting matched letters from the front of the note assumed the letters appear in the same order in the magazine.
 - Deleting matches anywhere still failed: the empty check ran only at the top of the loop, so a note finished by the magazine's last letter returned false. One magazine letter could also remove two note letters.
-- The counting version passed with a `HashMap` (15 ms). How I got there: I read the editorial and learned how to use a HashMap for this.
-- Two minutes later I switched to an `int[26]` array with a length check first (1 ms). Why I changed it: the editorial showed me there was a better way, so I improved it and wrote it again.
+- The counting version passed with a `HashMap` (15 ms). How I got there: I read an explanation and learned how to use a HashMap for this.
+- Two minutes later I switched to an `int[26]` array with a length check first (1 ms). Why I changed it: an explanation showed me there was a better way, so I improved it and wrote it again.
 
 ## Next
 
@@ -33,6 +33,6 @@ Three Wrong Answers on `"aab"` / `"baa"` before the counting idea:
 
 ## Links
 
-- Editorial: [LeetCode editorial](https://leetcode.com/problems/ransom-note/editorial/), read after my third Wrong Answer; it showed me the HashMap approach and then the array version.
+- None saved
 
 <!-- leetcode-sync: java=2177172278@1792508590 -->
