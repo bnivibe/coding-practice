@@ -4,6 +4,20 @@ Daily coding practice: LeetCode's [Top Interview 150](https://leetcode.com/study
 
 I'm a backend engineer with 7+ years of production Java. I keep this up so I can still solve problems by hand, alongside the AI-assisted way I work day to day.
 
+<!-- leetcode-stats:start -->
+## LeetCode stats
+
+Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (updated 2026-10-20)
+
+| | Easy | Medium | Hard | Total |
+|---|---|---|---|---|
+| Solved | 7 / 972 | 0 / 2,131 | 0 / 984 | 7 / 4,087 |
+
+- Acceptance rate: 70.6% (12 of 17 submissions accepted)
+- Active days in 2026: 2 · longest streak: 1 day
+- Languages: Java 7
+<!-- leetcode-stats:end -->
+
 ## How each problem is done
 
 1. **Solve without AI.** Timer on (Easy 20 min, Medium 40 min), thinking out loud the way I would in an interview. If time runs out, I stop, note where I got stuck, and try again the following week.
