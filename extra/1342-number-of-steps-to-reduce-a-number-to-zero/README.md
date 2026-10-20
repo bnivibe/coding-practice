@@ -28,6 +28,6 @@ Nothing on this one: accepted on the first submission.
 
 ## Links
 
-- Editorial: none noted
+- None saved
 
 <!-- leetcode-sync: java=2176673151@1792460842 -->

@@ -29,6 +29,6 @@ Sum each customer's balances with a for-each loop and keep the largest sum with 
 
 ## Links
 
-- Editorial: none noted (asked)
+- None saved
 
 <!-- leetcode-sync: java=2174960775@1792286842 -->
