@@ -7,15 +7,15 @@ I'm a backend engineer with 7+ years of production Java. I keep this up so I can
 <!-- leetcode-stats:start -->
 ## LeetCode stats
 
-Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (updated 2026-10-20)
+Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (updated 2026-10-21)
 
 | | Easy | Medium | Hard | Total |
 |---|---|---|---|---|
-| Solved | 7 / 972 | 0 / 2,131 | 0 / 984 | 7 / 4,087 |
+| Solved | 9 / 972 | 0 / 2,131 | 0 / 984 | 9 / 4,087 |
 
-- Acceptance rate: 70.6% (12 of 17 submissions accepted)
-- Active days in 2026: 2 · longest streak: 1 day
-- Languages: Java 7
+- Acceptance rate: 63.6% (14 of 22 submissions accepted)
+- Active days in 2026: 3 · longest streak: 2 days
+- Languages: Java 9
 <!-- leetcode-stats:end -->
 
 ## How each problem is done
@@ -50,7 +50,7 @@ leetcode/
 
 | # | Topic | Solved |
 |---|---|---|
-| 01 | Array / String | 0 / 24 |
+| 01 | Array / String | 1 / 24 |
 | 02 | Two Pointers | 0 / 5 |
 | 03 | Sliding Window | 0 / 4 |
 | 04 | Matrix | 0 / 5 |
@@ -70,10 +70,10 @@ leetcode/
 | 18 | Binary Search | 0 / 7 |
 | 19 | Heap | 0 / 4 |
 | 20 | Bit Manipulation | 0 / 6 |
-| 21 | Math | 0 / 6 |
+| 21 | Math | 1 / 6 |
 | 22 | 1D DP | 0 / 5 |
 | 23 | Multidimensional DP | 0 / 9 |
-| | **Total** | **2 / 150** |
+| | **Total** | **4 / 150** |
 | | Other problems (outside the 150, in `leetcode/extra/`) | 5 |
 
 Started October 2026.
