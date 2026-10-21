@@ -11,11 +11,11 @@ Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (up
 
 | | Easy | Medium | Hard | Total |
 |---|---|---|---|---|
-| Solved | 11 / 972 | 0 / 2,131 | 0 / 984 | 11 / 4,087 |
+| Solved | 12 / 972 | 0 / 2,131 | 0 / 984 | 12 / 4,087 |
 
-- Acceptance rate: 56.7% (17 of 30 submissions accepted)
+- Acceptance rate: 58.1% (18 of 31 submissions accepted)
 - Active days in 2026: 3 · longest streak: 2 days
-- Languages: Java 11
+- Languages: Java 12
 <!-- leetcode-stats:end -->
 
 ## How each problem is done
@@ -74,7 +74,7 @@ leetcode/
 | 22 | 1D DP | 0 / 5 |
 | 23 | Multidimensional DP | 0 / 9 |
 | | **Total** | **6 / 150** |
-| | Other problems (outside the 150, in `leetcode/extra/`) | 5 |
+| | Other problems (outside the 150, in `leetcode/extra/`) | 6 |
 
 Started October 2026.
 
