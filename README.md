@@ -11,11 +11,11 @@ Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (up
 
 | | Easy | Medium | Hard | Total |
 |---|---|---|---|---|
-| Solved | 10 / 972 | 0 / 2,131 | 0 / 984 | 10 / 4,087 |
+| Solved | 11 / 972 | 0 / 2,131 | 0 / 984 | 11 / 4,087 |
 
-- Acceptance rate: 55.2% (16 of 29 submissions accepted)
+- Acceptance rate: 56.7% (17 of 30 submissions accepted)
 - Active days in 2026: 3 · longest streak: 2 days
-- Languages: Java 10
+- Languages: Java 11
 <!-- leetcode-stats:end -->
 
 ## How each problem is done
@@ -56,7 +56,7 @@ leetcode/
 | 04 | Matrix | 0 / 5 |
 | 05 | Hashmap | 2 / 9 |
 | 06 | Intervals | 0 / 4 |
-| 07 | Stack | 0 / 5 |
+| 07 | Stack | 1 / 5 |
 | 08 | Linked List | 0 / 11 |
 | 09 | Binary Tree General | 0 / 14 |
 | 10 | Binary Tree BFS | 0 / 4 |
@@ -73,7 +73,7 @@ leetcode/
 | 21 | Math | 1 / 6 |
 | 22 | 1D DP | 0 / 5 |
 | 23 | Multidimensional DP | 0 / 9 |
-| | **Total** | **5 / 150** |
+| | **Total** | **6 / 150** |
 | | Other problems (outside the 150, in `leetcode/extra/`) | 5 |
 
 Started October 2026.
