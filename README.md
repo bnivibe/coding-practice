@@ -1,6 +1,6 @@
 # coding-practice
 
-Daily coding practice, one folder per platform. Right now that is LeetCode: the [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) study plan plus a few warm-ups, solved in Java first, then rewritten in Kotlin. Other platforms get their own folder when I start practicing there.
+Daily coding practice, one folder per platform. Right now that is LeetCode: the [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) study plan plus a few warm-ups. Since 2026-10-24 I solve in Kotlin day to day, and in Java, my production language, when I want Java practice. The earlier problems were solved in Java first and then ported. Other platforms get their own folder when I start practicing there.
 
 I'm a backend engineer with 7+ years of production Java. I keep this up so I can still solve problems by hand, alongside the AI-assisted way I work day to day.
 
@@ -22,7 +22,7 @@ Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (up
 
 1. **Solve without AI.** Timer on (Easy 20 min, Medium 40 min), thinking out loud the way I would in an interview. If time runs out, I stop, note where I got stuck, and try again the following week.
 2. **Review an AI solution.** I ask Claude for its own solution and read it without running it: where it is weak, how it differs from mine, and what breaks first if the input grows 10x.
-3. **Port to Kotlin.** Same solution, rewritten in idiomatic Kotlin.
+3. **Note the Kotlin I looked up.** Syntax or library calls I had to search for, and one spot I would now write more idiomatically. (Before 2026-10-24 this step was porting a Java solution to Kotlin.)
 4. **Write it down.** Each problem folder has notes: approach, complexity, what I missed, and what to study or practice next.
 
 The solutions are my own code, written in each platform's editor and copied here unchanged. The notes are drafted with Claude from my submission history and my answers; the commit history shows which is which.
@@ -35,8 +35,8 @@ Problem statements and editorials belong to the platforms, so each folder links 
 leetcode/
   01-array-string/           Top Interview 150, one folder per topic
     0088-merge-sorted-array/
-      Solution.java
-      Solution.kt
+      Solution.kt            Kotlin day to day
+      Solution.java          Java, when practiced in Java
       README.md              notes, see TEMPLATE.md
   02-two-pointers/
   ...
