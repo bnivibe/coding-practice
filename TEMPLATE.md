@@ -5,7 +5,7 @@
 - **Problem:** https://leetcode.com/problems/problem-slug/
 - **Topic:** Array / String · **Difficulty:** Easy
 - **Date:** YYYY-MM-DD
-- **Result:** Accepted in 14 min (Java) · Kotlin port accepted
+- **Result:** Accepted in 14 min (Kotlin)
 - **Retry:** no
 
 ## Approach
@@ -34,7 +34,7 @@ What slowed me down or what I got wrong on the first try.
 
 ## Kotlin notes
 
-One thing I wrote differently in Kotlin.
+One Kotlin feature I used or had to look up, or one thing I wrote differently from Java.
 
 ## Links
 
