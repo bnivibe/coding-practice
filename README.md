@@ -7,15 +7,15 @@ I'm a backend engineer with 7+ years of production Java. I keep this up so I can
 <!-- leetcode-stats:start -->
 ## LeetCode stats
 
-Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (updated 2026-10-21)
+Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (updated 2026-10-30)
 
 | | Easy | Medium | Hard | Total |
 |---|---|---|---|---|
-| Solved | 12 / 972 | 0 / 2,131 | 0 / 984 | 12 / 4,087 |
+| Solved | 13 / 974 | 0 / 2,136 | 0 / 986 | 13 / 4,096 |
 
-- Acceptance rate: 58.1% (18 of 31 submissions accepted)
-- Active days in 2026: 3 · longest streak: 2 days
-- Languages: Java 12
+- Acceptance rate: 60.6% (20 of 33 submissions accepted)
+- Active days in 2026: 5 · longest streak: 2 days
+- Languages: Java 12, MySQL 1, Kotlin 1
 <!-- leetcode-stats:end -->
 
 ## How each problem is done
