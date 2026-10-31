@@ -6,7 +6,7 @@
 - **Topic:** Hashmap · **Difficulty:** Easy
 - **Date:** 2026-10-20
 - **Result:** Accepted (Java, 3 ms, 46.7 MB) · submissions: Wrong Answer, Accepted, Accepted, Accepted
-- **Retry:** no
+- **Retry:** yes (2026-10-30), in Kotlin: accepted on the first submission (8 ms, 54.7 MB). Before it I read an explanation of a Kotlin version, then wrote my own two-pass version.
 
 ## Approach
 
@@ -27,8 +27,14 @@ Walk the array once. For each number, look up its complement (`target - nums[i]`
 - **Study:** The complement lookup with a `HashMap`, and why one pass is enough.
 - **Practice:** [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
+## Kotlin notes
+
+- The Kotlin retry is the two-pass version: the first `forEachIndexed` stores number to index, the second looks up `map[target - num]` once with `?.let`. Storing the later index for a repeated number is what makes `[3, 3]` work.
+- `return` inside the `forEachIndexed` lambda returns from `twoSum` itself, because `forEachIndexed` is inline. `return@forEachIndexed` only ends the current element, like `continue`; I used it to skip the element pairing with itself.
+- Simpler next time: `?.let { if (it != index) return intArrayOf(index, it) }` needs no label, and the one-pass order (look up first, store after) needs no same-index check at all.
+
 ## Links
 
 - None saved
 
-<!-- leetcode-sync: java=2177222961@1792512422 -->
+<!-- leetcode-sync: java=2177222961@1792512422 kotlin=2185896288@1793416990 -->
