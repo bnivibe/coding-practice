@@ -1,8 +1,8 @@
 # coding-practice
 
-Daily coding practice, one folder per platform. Right now that is LeetCode: the [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) study plan plus a few warm-ups. Since 2026-10-24 I solve in Kotlin day to day, and in Java, my production language, when I want Java practice. The earlier problems were solved in Java first and then ported. Other platforms get their own folder when I start practicing there.
+Daily coding practice, one folder per platform. Right now that is LeetCode: the [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) study plan plus a few warm-ups. Since 2026-10-24 I solve in Kotlin day to day, and in Java when I want Java practice. The earlier problems were solved in Java first and then ported. Other platforms get their own folder when I start practicing there.
 
-I'm a backend engineer with 7+ years of production Java. I keep this up so I can still solve problems by hand, alongside the AI-assisted way I work day to day.
+I keep this up so I can still solve problems by hand, alongside the AI-assisted way I work day to day.
 
 <!-- leetcode-stats:start -->
 ## LeetCode stats
@@ -20,7 +20,7 @@ Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (up
 
 ## How each problem is done
 
-1. **Solve without AI.** Timer on (Easy 20 min, Medium 40 min), thinking out loud the way I would in an interview. If time runs out, I stop, note where I got stuck, and try again the following week.
+1. **Solve without AI.** Timer on (Easy 20 min, Medium 40 min), thinking out loud as I go. If time runs out, I stop, note where I got stuck, and try again the following week.
 2. **Review an AI solution.** I ask Claude for its own solution and read it without running it: where it is weak, how it differs from mine, and what breaks first if the input grows 10x.
 3. **Note the Kotlin I looked up.** Syntax or library calls I had to search for, and one spot I would now write more idiomatically. (Before 2026-10-24 this step was porting a Java solution to Kotlin.)
 4. **Write it down.** Each problem folder has notes: approach, complexity, what I missed, and what to study or practice next.
