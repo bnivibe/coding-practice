@@ -7,11 +7,11 @@ I keep this up so I can still solve problems by hand, alongside the AI-assisted 
 <!-- leetcode-stats:start -->
 ## LeetCode stats
 
-Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (updated 2026-10-30)
+Profile: **[leetcode.com/u/d1nuvtObP6](https://leetcode.com/u/d1nuvtObP6/)** (updated 2026-11-27)
 
 | | Easy | Medium | Hard | Total |
 |---|---|---|---|---|
-| Solved | 13 / 974 | 0 / 2,136 | 0 / 986 | 13 / 4,096 |
+| Solved | 13 / 978 | 0 / 2,152 | 0 / 994 | 13 / 4,124 |
 
 - Acceptance rate: 60.6% (20 of 33 submissions accepted)
 - Active days in 2026: 5 · longest streak: 2 days
